@@ -8,3 +8,7 @@ blockquote {
 	background-color: #f8fffe;
 	font-weight: bold;
 }
+ label {
+	 display: block;
+	 padding-bottom: 10px;
+ }
